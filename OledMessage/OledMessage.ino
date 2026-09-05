@@ -28,7 +28,7 @@ void setup() {
   display.setCursor(15, 24); 
   
   // Print short message
-  display.println(F("Hola Mundo"));
+  display.println(F("HOLA"));
   
   // Show the text on the screen
   display.display();
